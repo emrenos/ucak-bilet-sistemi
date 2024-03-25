@@ -24,3 +24,4 @@ Bu Java programı, bir havayolu şirketinin uçuş biletlerini satın almak içi
 3. `Main.java` dosyasını çalıştırarak programı başlatın.
 
 ## Program Çıktısı
+<img src="https://github.com/emrenos/ucak-bilet-sistemi/blob/main/program_ciktisi.png">
